@@ -14,7 +14,7 @@ public class Circulo {
 	
 	public Circulo() {
 		Scanner entrada = new Scanner(System.in);
-		System.out.println("Introduce el radio del círculo");
+		System.out.println("Introduce el radio  círculo");
 		radio = entrada.nextDouble();
 	}
 	
